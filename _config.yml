@@ -1,7 +1,7 @@
 title: SPCH2008 BLOG
-description: spch2008's blog
+description: hustyan's blog
 
-url: http://spch2008.github.io
+url: http://feng-y.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
